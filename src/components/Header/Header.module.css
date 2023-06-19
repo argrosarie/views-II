@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 0 20px;
+}
+
+.title {
+    font-size: 1.25rem;
+    color: #273947;
+}
+
+.button {
+    background-color: #52B879;
+    padding: 16px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 2.25rem;
+    width: 5.25rem;
+    border-radius: 1rem;
+    border-width: 2px;
+    border-color:#52B879;
+    cursor: pointer;
+   
+}
+
+.icon {
+    font-size: 24px;
+    
+}
